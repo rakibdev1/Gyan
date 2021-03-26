@@ -1,0 +1,866 @@
+
+@media(min-width:1200px) and (max-width:1399px){
+
+
+    .banner-content {
+        padding-top: 35px;
+        padding-left: 70px;
+    }
+    .banner-content p {
+        padding-bottom: 13px;
+
+    }
+
+
+
+    /*=======courses section starts here==================*/
+    .courses-content p {
+        padding: 0 304px 50px;
+    }
+    .courses-inner-image-overlay i {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%)translateX(-50%);
+        margin-top:0
+        
+    }
+    /*=======courses section ends here==================*/
+    /*=======testimonial section starts here==================*/
+    .testimonial-content p {
+        padding: 0 293px;
+    }
+    /*=======testimonial section ends hree==================*/
+    /*=======teachers section starts here==================*/
+    .teachers-content p {
+        padding: 0 294px;
+    }
+    .teacher-inner-img-icon i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .teacher-inner-img-icon i {
+        margin-left: 0px;
+    }
+
+    /*=======teachers section ends here==================*/
+    /*=======our blog section starts here==================*/
+    .our-blog-content p {
+        padding: 0 291px;
+    }
+    .blog-gallery-img-inner-content {
+        padding-top: 0;
+    }
+    /*=======our blog section ends here==================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+    /*=========================*/
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner-content {
+        padding-top: 70px;
+        text-align: left;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+    .banner-content p {
+        display: none
+    }
+    .carousel-indicators [data-bs-target] {
+        visibility: hidden;
+    }
+    /*=====about us section starts here====================*/
+
+     .about-us-content {
+         padding-top: 50px;
+    }
+    .about-us-content p {
+       padding: 0 185px 50px;
+    }
+    /*=====about us section ends here====================*/
+    /*=====courses section starts here====================*/
+    .courses-content {
+        padding-top: 50px;
+    }
+    .courses-content p {
+        padding: 0 185px 50px;
+    }
+    .courses-deep-inner-img-content-rating {
+        padding-top: 0;
+    }
+    .courses-deep-inner-img-content {
+        padding-top: 0;
+    }
+    .padding-course-fee {
+        padding-top: 0;
+    }
+    .course-main {
+        padding-bottom: 50px;
+    }
+    .courses-inner-image-overlay i {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%)translateX(-50%);
+        margin-top:0
+        
+    }
+    /*=====courses section ends here====================*/
+    /*=====events section starts here====================*/
+
+    .event-content p {
+        padding: 0 185px 50px;
+    }
+    .event-content {
+        padding-bottom: 0;
+    }
+    /*=====events section ends here====================*/
+    /*=====testimonial section starts here====================*/
+
+    .testimonial-content {
+        padding-top: 50px;
+    }
+    .teachers-content p {
+        padding: 0 185px;
+    }
+    .teacher-inner-img-icon i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .teacher-inner-img-icon i {
+        margin-left: 0px;
+    }
+    /*=====events section ends here====================*/
+    /*=====blog section starts here===================*/
+  
+
+    .our-blog-content p {
+        padding: 0 185px;
+    }
+    .blog-gallery-img-inner-content {
+        padding-top: 0;
+    }
+    .blog-gallery-img-inner-content {
+        position: absolute;
+        bottom: 15px;
+    }
+    .blog-last-gal-img-overlay p {
+        position: absolute;
+        bottom: 30px;
+        left: 5%;
+    }
+    .blog-last-gal-img-overlay a {
+        position: absolute;
+        bottom: 10px;
+        left: 5%;
+    }
+    .blog-icon {
+        right: -10px;
+    }
+    .blog-gallery-img:hover .blog-icon {
+        visibility: visible;
+        right: 15px;
+    }
+    .blog-icon i {
+        color: #fff;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+
+    /*====blog section ends here====================*/
+    /*========================*/
+    /*========================*/
+    /*========================*/
+
+
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:768px) and (max-width:991.99px){
+
+    #start {
+        background-color: #2d3e50;
+        display: none;
+    }
+    /*=====start=======*/
+    /*=====menu section start here=======*/
+    .navbar-nav .nav-link {
+        margin-bottom: 10px;
+    }
+    element {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom:0
+    }
+     /*=====menu section start here=======*/
+     .navbar-nav .nav-link {
+        margin-bottom: 10px;
+    }
+    element {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom:0
+    }
+    
+    /*======menu section ends here======*/
+     /*=====banner section starts heree=======*/
+     .banner-content {
+        padding-top: 70px;
+        padding-left: 45px;
+    }
+    .banner-content h2 {
+        font-size: 25px;
+    }
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content p {
+        display: none
+    }
+    .banner-content a {
+        padding: 5px 10px;
+        border: 1px solid #2d3e50;
+    }
+    .carousel-indicators [data-bs-target] {
+        visibility: hidden;
+    }
+
+ 
+
+
+    /*=====banner section ends here=======*/
+      /*=====service section starts here=======*/
+ 
+    .support-inner-content h4 {
+        font-size: 14px;
+    }
+
+    /*=====service section ends here=======*/
+    /*=====about us section starts here====================*/
+
+    .about-us-content {
+        padding-top: 50px;
+    }
+    .about-us-content p {
+        padding: 0 80px 50px;
+    }
+    /*=====about us section ends here====================*/
+    /*=====courses section starts here====================*/
+    .courses-content {
+        padding-top: 50px;
+    }
+    .courses-content p {
+        padding: 0 80px 50px;
+    }
+    .courses-deep-inner-img-content-rating {
+        padding-top: 0;
+    }
+    .courses-deep-inner-img-content {
+        padding-top: 0;
+    }
+    .padding-course-fee {
+        padding-top: 0;
+    }
+    .course-main {
+        padding-bottom: 50px;
+    }
+    .courses-inner-image-overlay i {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%)translateX(-50%);
+        margin-top:0
+        
+    }
+    /*=====courses section ends here====================*/
+    /*=====event section starts here====================*/
+    .event-content p {
+        padding: 0 80px 50px;
+    }
+    .event-content {
+        padding-bottom: 0;
+    }
+    .calender-main {
+        padding-bottom: 50px;
+    }
+    /*=====event section ends here====================*/
+    /*=====testimonial section starts here====================*/
+    .testimonial-content {
+        padding-top: 50px;
+    }
+    .testimonial-content p {
+        padding: 0 80px 0;
+    }
+    .testimonial-accordion {
+        padding-top: 30px;
+    }
+    /*======testimonial section ends here===================*/
+    /*=======teachers section starts here==================*/
+    .teachers-content {
+        padding-top: 50px;
+    }
+    .teachers-content p {
+        padding: 0 80px 50px;
+    }
+    .teacher-margin{
+        margin-bottom: 20px;
+    }
+    .teacher-inner-img-icon i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .teachers-main {
+        padding-bottom: 50px;
+    }
+    .teacher-inner-img-icon i {
+        margin-left: 0px;
+    }
+    /*=======teachers section ends here==================*/
+    /*=======our blog section starts here==================*/
+    .our-blog-content p {
+        padding: 0 80px 50px;
+    }
+
+    .blog-last-gal-img-overlay p {
+        position: absolute;
+        bottom: 50px;
+        left: 5%;
+    }
+    .blog-gallery-img-inner-content{
+        display: none;
+    }
+    .blog-gallery-img-deep-content{
+        display: none;
+    }
+    .blog-gallery-img-deep-eye{
+        display: none;
+    }
+    .blog-gallery-img-deep-share{
+        display: none;
+    }
+    .blog-last-gal-img-overlay p{
+        position: absolute;
+        bottom: 30px;
+        top: 5%;
+    }
+    .blog-last-gal-img-overlay a {
+        position: absolute;
+        bottom: 30px;
+        top: 10%;
+        padding-left:11%;
+    }
+    .blog-gallery-img:hover .blog-icon {
+        visibility: visible;
+        right: 15px;
+    }
+
+
+
+    /*=======our blog section ends here==================*/
+    /*=========================*/
+    /*=========================*/
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    
+    #start {
+        background-color: #2d3e50;
+        display: none;
+
+    }
+    /*=====start=======*/
+    /*=====menu section start here=======*/
+    .navbar-nav .nav-link {
+        margin-bottom: 10px;
+    }
+    element {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom:0
+    }
+    
+    /*======menu section ends here======*/
+     /*=====banner section starts heree=======*/
+     .banner-content {
+        padding-top: 60px;
+    }
+    .banner-content h2 {
+        font-size: 22px;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-content p {
+        display: none
+    }
+    .banner-content a {
+        padding: 3px 5px;
+        border: 1px solid #2d3e50;
+    }
+    .carousel-indicators [data-bs-target] {
+        visibility: hidden;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        display: none;
+    }
+
+
+    /*=====banner section ends here=======*/
+      /*=====service section starts here=======*/
+      .cde {
+        margin-top: 50px;
+    }
+    .support-inner-content h4 {
+        font-size: 14px;
+    }
+
+    /*=====service section ends here=======*/
+
+
+    /*==========about us section starts here=================*/
+    .about-us-content {
+        padding-top: 50px;
+    }
+    .about-us-content p {
+        padding: 0 0px 35px;
+    }
+    /*==========about us section ends here=================*/
+    /*==========courses section starts here=================*/
+    .course-main{
+        padding-bottom: 50px;
+    }
+    .courses-content {
+        padding-top: 50px;
+    }
+    .courses-content p{
+        padding: 0 0px 35px;
+    }
+    .courses-inner-image-overlay i {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%)translateX(-50%);
+        margin-top:0     
+    }
+    /*==========courses section ends here=================*/
+    /*============event section starts hhere===============*/
+
+    .event-content p {
+        padding: 0 0px 35px;
+    }
+    .event-content {
+        padding-bottom: 0;
+    }
+    .calender-main {
+        padding-bottom: 50px;
+    }
+    .calender-img{
+        padding-bottom: 30px;
+    }
+    /*=============event section ends here==============*/
+    /*=============testimonial sectio starts here==============*/
+    .testimonial-main {
+        padding-bottom: 25px;
+    }
+    .testimonial-content {
+        padding-top: 50px;
+        padding-bottom: 25px;
+    }
+    .testimonial-content p {
+        padding: 0 0px 35px;
+    }
+    .testimonial-accordion {
+        padding-top: 30px;
+    }
+    /*=============testimonial section ends here==============*/
+    /*==========teachers section starts here=================*/
+    .teachers-content {
+        padding-top: 50px;
+    }
+    .teachers-content p {
+        padding: 0 0px 35px;
+    }
+    .teacher-margin{
+        margin-bottom: 20px;
+    }
+    .teacher-inner-img-icon i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    /*===========teachers section ends here================*/
+    /*===========our blog section starts here================*/
+    .our-blog-content p {
+        padding: 0 0px 35px;
+    }
+    .blog-gallery-img-inner-content {
+        padding-top:0;
+    }
+    .blog-gallery-img-inner-content {
+        position: absolute;
+        bottom: 15px;
+    }
+    .blog-last-gal-img-overlay p {
+        position: absolute;
+        bottom: 50px;
+        left: 5%;
+    }
+    .blog-last-gal-img-overlay a {
+        position: absolute;
+        bottom: 30px;
+        left: 5%;
+    }
+    /*===========our blog section ends here================*/
+    /*===========================*/
+    /*===========================*/
+    /*===========================*/
+    /*===========================*/
+    /*===========================*/
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:575.98px){
+
+    /*======start======*/
+    #start {
+        background-color: #2d3e50;
+        display: none;
+
+    }
+    /*=====start=======*/
+    /*=====menu section start here=======*/
+    .navbar-nav .nav-link {
+        margin-bottom: 10px;
+    }
+    element {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom:0
+    }
+
+    /*======menu section ends here======*/
+    
+    
+    /*=====banner section starts heree=======*/
+    .banner-content {
+        padding-top: 18px;
+    }
+    .banner-content h2 {
+        font-size: 17px;
+    }
+    .banner-content h1 {
+        font-size: 19px;
+    }
+    .banner-content p {
+        display: none
+    }
+    .banner-content a {
+        padding: 3px 3px;
+        border: 1px solid #2d3e50;
+    }
+    .carousel-indicators [data-bs-target] {
+        visibility: hidden;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        display: none;
+    }
+
+
+    /*=====banner section ends here=======*/
+    /*=====service section starts here=======*/
+    .cde {
+        margin-top: 50px;
+    }
+    .support-inner-content h4 {
+        font-size: 14px;
+    }
+
+    /*=====service section ends here=======*/
+    /*=======about us section starts here=====*/
+    .about-us-content {
+        padding-top: 50px;
+    }
+    .about-us-content p {
+        padding: 0 0px 35px;
+    }
+    .about-us-inner-content-button a {
+        padding: 5px 10px;
+    }
+    .about-us-inner-content-button {
+        padding-top: 20px;
+    }
+    .about-us-inner {
+        padding-bottom: 60px;
+    }
+    /*=======about us section ends here=====*/
+
+    /*======counter section starts here======*/
+    .counter-content {
+        padding-bottom: 15px;
+    }
+
+
+
+    /*======counter section ends here======*/
+
+
+    /*======our courses section starts here======*/
+    .course-main {
+        padding-bottom: 50px;
+    }
+    .courses-content {
+        padding-top: 50px;
+    }
+ 
+
+    .courses-content p {
+        padding: 0 0px 35px;
+    }
+    .courses-deep-inner-img-content p {
+        font-size: 13px;
+    }
+    .courses-deep-inner-img-content-rating p {
+        font-size: 15px;
+    }
+    .padding-course-fee{
+        padding-top: 15px;
+    }
+    .courses-simple-div{
+        margin-bottom: 30px;
+    }
+    .courses-inner-image-overlay i {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%)translateX(-50%);
+        margin-top:0
+        
+    }
+    .courses-deep-inner-img-content {
+        padding-top: 0;
+    }
+    .courses-deep-inner-img-content-rating {
+        padding-top: 0;
+    }
+    .padding-course-fee {
+        padding-top: 0;
+    }
+
+
+    /*======our courses section ends here======*/
+    /*=======our event section starts here=====*/
+    .event-content p {
+        padding: 0 0;
+    }
+    .calender-main {
+        padding-bottom: 50px;
+    }
+    .calender-img{
+        padding-bottom: 30px;
+    }
+    /*=======our event section ends here=====*/
+    /*======testimonial section starts here======*/
+    .testimonial-main {
+        padding-bottom: 20px;
+    }
+
+    .testimonial-content {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .testimonial-content p {
+        padding: 0 0;
+    }
+    .testimonial-accordion{
+        margin-top: 20px;
+    }
+    /*=======testimonial section ends here=====*/
+    /*=======our teachers seection starts here=====*/
+    .teachers-main {
+        padding-bottom: 50px;
+    }
+    .teachers-content p {
+        padding: 0 0;
+    }
+    .teacher-margin{
+        margin-bottom: 20px;
+    }
+    .teacher-inner-img-icon i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    /*======our teacher section ends here======*/
+    /*======our blog section starts here======*/
+    .blog-gallery-img-inner-content {
+        padding-top: 145px;
+        display: none;
+    }
+    .our-blog-content p {
+        padding: 0;
+    }
+    .blog-gallery-img-deep-content{
+        display: none;
+    }
+    .blog-gallery-img-deep-eye{
+        display: none;
+    }
+    .blog-gallery-img-deep-share{
+        display: none;
+    }
+    .blog-gallery-img-inner-content p {
+        font-size: 18px;
+    }
+    .blog-gallery-img-inner-content a {
+        padding-left: 20px;
+    }
+    .blog-gallery-img-deep-content p {
+        padding-left: 20px;
+    }
+    .blog-last-gal-img-overlay p {
+        position: absolute;
+        bottom: 30px;
+        left: 5%;
+    }
+    .blog-last-gal-img-overlay a {
+        position: absolute;
+        bottom: 10px;
+        left: 5%;
+    }
+    /*======our blog section ends here======*/
+    /*======footer section starts here======*/
+    .footer-third-icon-content h5 {
+        padding-top: 13px;
+    }
+
+    /*======footer section ends here=======*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+    /*============*/
+   
+}
